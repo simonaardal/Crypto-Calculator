@@ -1,5 +1,25 @@
 # Crypto-Calculator
-A tool written in C++ using the Qt Widgets framework implementing simple cryptographic algorithms. 
+A tool written in C++ using the Qt Widgets framework implementing simple cryptographic algorithms. Developed to be used in conjunction with the subject TDAT3020 Security in Network and Software at NTNU.
+
+
+
+## Topics
+
+* Multiplicative inverse
+* Square and multiply 
+* Modulo matrix calculations
+* Euclids extended algorithm 
+* Pollards algorithms 
+* Shanks algorithms
+* Caesar-cipher
+* Vigenere-cipher
+* Hill-cipher
+* MACs
+* RSA
+* ElGamal 
+* Digital signatures (RSA and ElGamal)
+
+
 
 
 ## How to run 
