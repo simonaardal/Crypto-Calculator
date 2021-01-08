@@ -46,6 +46,7 @@ MainWindow::MainWindow(QWidget *parent)
     setUpTreeView();
     setUpPages();
     setValidators();
+
     ui->stackedWidget->setCurrentIndex(0);
     QObject::connect(this, SIGNAL(change(int)), ui->stackedWidget, SLOT(setCurrentIndex(int)));
 
